@@ -1452,6 +1452,10 @@ cli-cursor@^2.1.0:
   dependencies:
     restore-cursor "^2.0.0"
 
+cli-plugin-foobar@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/cli-plugin-foobar/-/cli-plugin-foobar-1.0.11.tgz#1aa44d3573d136c3a591fc3f8b849971910a59f2"
+
 cli-spinners@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-1.1.0.tgz#f1847b168844d917a671eb9d147e3df497c90d06"
@@ -6282,6 +6286,10 @@ vue-template-es2015-compiler@^1.6.0:
 vue@^2.5.13:
   version "2.5.13"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.13.tgz#95bd31e20efcf7a7f39239c9aa6787ce8cf578e1"
+
+vuetify@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-1.0.3.tgz#b140367b88d903beb5218bb8c01ad79e2cd39781"
 
 watchpack@^1.4.0:
   version "1.4.0"
